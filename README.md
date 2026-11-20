@@ -90,7 +90,7 @@ The project aims to address the following problems in semiconductor manufacturin
 
 
 
-## 4. Reference Research Paper
+## 3. Reference Research Paper
 
 The initial methodological reference for this project is:
 
@@ -105,7 +105,7 @@ This paper investigates preprocessing techniques and machine learning algorithms
 
 The project will use it as a reference for developing baseline models and comparing different preprocessing strategies.
 
-## 5. Dataset Citation
+## 4. Dataset Citation
 
 McCann, M., & Johnston, A. (2008). *SECOM* [Dataset]. UCI Machine Learning Repository.
 
